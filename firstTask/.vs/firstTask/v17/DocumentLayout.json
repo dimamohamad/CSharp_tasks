@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d\\source\\repos\\firstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA89208-E423-43AB-B263-65D47D5CE593}|firstTask\\firstTask.csproj|c:\\users\\d\\source\\repos\\firsttask\\firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA89208-E423-43AB-B263-65D47D5CE593}|firstTask\\firstTask.csproj|solutionrelative:firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\firstTask\\firstTask\\Program.cs",
+              "RelativeDocumentMoniker": "firstTask\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\source\\repos\\firstTask\\firstTask\\Program.cs",
+              "RelativeToolTip": "firstTask\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:40:38.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
