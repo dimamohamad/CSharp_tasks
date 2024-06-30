@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d\\source\\repos\\Clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610491E9-C6F5-4A55-9828-926FEFE4D12C}|Clases\\Clases.csproj|c:\\users\\d\\source\\repos\\clases\\clases\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610491E9-C6F5-4A55-9828-926FEFE4D12C}|Clases\\Clases.csproj|solutionrelative:clases\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610491E9-C6F5-4A55-9828-926FEFE4D12C}|Clases\\Clases.csproj|c:\\users\\d\\source\\repos\\clases\\clases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610491E9-C6F5-4A55-9828-926FEFE4D12C}|Clases\\Clases.csproj|solutionrelative:clases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610491E9-C6F5-4A55-9828-926FEFE4D12C}|Clases\\Clases.csproj|c:\\users\\d\\source\\repos\\clases\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610491E9-C6F5-4A55-9828-926FEFE4D12C}|Clases\\Clases.csproj|solutionrelative:clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\Clases\\Clases\\Class2.cs",
+              "RelativeDocumentMoniker": "Clases\\Class2.cs",
+              "ToolTip": "C:\\Users\\d\\source\\repos\\Clases\\Clases\\Class2.cs",
+              "RelativeToolTip": "Clases\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:41:24.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\Clases\\Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\source\\repos\\Clases\\Clases\\Program.cs",
+              "RelativeToolTip": "Clases\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:10:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\Clases\\Clases\\Class1.cs",
+              "RelativeDocumentMoniker": "Clases\\Class1.cs",
+              "ToolTip": "C:\\Users\\d\\source\\repos\\Clases\\Clases\\Class1.cs",
+              "RelativeToolTip": "Clases\\Class1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:10:32.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
