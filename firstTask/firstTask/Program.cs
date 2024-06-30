@@ -44,7 +44,8 @@ namespace firstTask
             Console.WriteLine(carsArray[0]);
             Console.WriteLine(carsArray[1]);
             Console.WriteLine(carsArray[2]);
-            Console.WriteLine(carsArray.Length);
+            Console.WriteLine("The length of the array is :" + carsArray.Length);
+
 
             /*4-	Write a program in C that reads a first name, surname and year of birth and display the names and the year one after another sequentially. Go to the editor
                     •	Input your firstname: Sami
@@ -52,7 +53,7 @@ namespace firstTask
                     •	Input your year of birth: 1999
                     •	Sami Ali 1999
             */
-             string firstName;
+            string firstName;
               firstName = Console.ReadLine();
               string lastName;
               lastName = Console.ReadLine();
